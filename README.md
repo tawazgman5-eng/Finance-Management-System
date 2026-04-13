@@ -69,10 +69,10 @@ setup.exe
 
 ## 📸 Screenshots
 
-### 🔹 Main Dashboard
+### 🔹 Finance Expense Manager Workspace
 ![Dashboard](screenshots/finance_expense_manager.png)
 
-### 🔹 Transactions Page
+### 🔹 Fiance Manager Dashboard
 ![Transactions](screenshots/finance_manger_dashboard.png)
 
 ---
