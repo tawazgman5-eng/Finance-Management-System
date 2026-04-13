@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Finance Management Sys", "Finance Management Sys.csproj", "{EB88023A-B61C-4EBD-9571-85EF5B55FF71}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "FinanceManagementSetup", "..\FinanceManagementSetup\FinanceManagementSetup.vdproj", "{C499DD8B-A6A7-4A40-B2E8-FD17BD4A66DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB88023A-B61C-4EBD-9571-85EF5B55FF71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB88023A-B61C-4EBD-9571-85EF5B55FF71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB88023A-B61C-4EBD-9571-85EF5B55FF71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB88023A-B61C-4EBD-9571-85EF5B55FF71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C499DD8B-A6A7-4A40-B2E8-FD17BD4A66DB}.Debug|Any CPU.ActiveCfg = Debug
+		{C499DD8B-A6A7-4A40-B2E8-FD17BD4A66DB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D42E1525-B935-499E-9D26-6400A8F14FDF}
+	EndGlobalSection
+EndGlobal
