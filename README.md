@@ -1,11 +1,11 @@
 # 💰 Finance Management System
 
-## 📌 Overview
+##  Overview
 The Finance Management System is a desktop-based application developed using C# and Windows Forms (.NET Framework). It is designed to help users manage financial transactions, track expenses, and maintain financial records efficiently.
 
 ---
 
-## 🚀 Features
+##  Features
 - Add and manage financial transactions
 - Track income and expenses
 - View financial summaries
